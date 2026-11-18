@@ -8,6 +8,7 @@ void main() {
 }
 
 class ExpenseTrackerApp extends StatelessWidget {
+
   const ExpenseTrackerApp({super.key});
 
   @override
